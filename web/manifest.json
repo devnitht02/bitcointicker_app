@@ -1,6 +1,6 @@
 {
-    "name": "bitcointicker_app",
-    "short_name": "bitcointicker_app",
+    "name": "bitcoin",
+    "short_name": "bitcoin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
